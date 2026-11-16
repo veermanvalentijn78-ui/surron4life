@@ -1,0 +1,6 @@
+{
+  "name": "Surron4You",
+  "description": "Surron4You — Electric dirt bikes, small electric cross motorbikes, and Mini Surron.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
